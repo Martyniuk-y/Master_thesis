@@ -1,0 +1,135 @@
+CHAPTER VII
+GOVERNANCE
+SECTION 1
+Governance at Union level
+Article 64
+AI Office
+1.   The Commission shall develop Union expertise and capabilities in the field of AI through the AI Office.
+2.   Member States shall facilitate the tasks entrusted to the AI Office, as reflected in this Regulation.
+Article 65
+Establishment and structure of the European Artificial Intelligence Board
+1.   A European Artificial Intelligence Board (the ‘Board’) is hereby established.
+2.   The Board shall be composed of one representative per Member State. The European Data Protection Supervisor shall participate as observer. The AI Office shall also attend the Board’s meetings, without taking part in the votes. Other national and Union authorities, bodies or experts may be invited to the meetings by the Board on a case by case basis, where the issues discussed are of relevance for them.
+3.   Each representative shall be designated by their Member State for a period of three years, renewable once.
+4.   Member States shall ensure that their representatives on the Board:
+(a)
+have the relevant competences and powers in their Member State so as to contribute actively to the achievement of the Board’s tasks referred to in Article 66;
+(b)
+are designated as a single contact point vis-à-vis the Board and, where appropriate, taking into account Member States’ needs, as a single contact point for stakeholders;
+(c)
+are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of this Regulation, including through the collection of relevant data and information for the purpose of fulfilling their tasks on the Board.
+5.   The designated representatives of the Member States shall adopt the Board’s rules of procedure by a two-thirds majority. The rules of procedure shall, in particular, lay down procedures for the selection process, the duration of the mandate of, and specifications of the tasks of, the Chair, detailed arrangements for voting, and the organisation of the Board’s activities and those of its sub-groups.
+6.   The Board shall establish two standing sub-groups to provide a platform for cooperation and exchange among market surveillance authorities and notifying authorities about issues related to market surveillance and notified bodies respectively.
+The standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for this Regulation within the meaning of Article 30 of Regulation (EU) 2019/1020.
+The Board may establish other standing or temporary sub-groups as appropriate for the purpose of examining specific issues. Where appropriate, representatives of the advisory forum referred to in Article 67 may be invited to such sub-groups or to specific meetings of those subgroups as observers.
+7.   The Board shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.
+8.   The Board shall be chaired by one of the representatives of the Member States. The AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to this Regulation and its rules of procedure.
+Article 66
+Tasks of the Board
+The Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of this Regulation. To that end, the Board may in particular:
+(a)
+contribute to the coordination among national competent authorities responsible for the application of this Regulation and, in cooperation with and subject to the agreement of the market surveillance authorities concerned, support joint activities of market surveillance authorities referred to in Article 74(11);
+(b)
+collect and share technical and regulatory expertise and best practices among Member States;
+(c)
+provide advice on the implementation of this Regulation, in particular as regards the enforcement of rules on general-purpose AI models;
+(d)
+contribute to the harmonisation of administrative practices in the Member States, including in relation to the derogation from the conformity assessment procedures referred to in Article 46, the functioning of AI regulatory sandboxes, and testing in real world conditions referred to in Articles 57, 59 and 60;
+(e)
+at the request of the Commission or on its own initiative, issue recommendations and written opinions on any relevant matters related to the implementation of this Regulation and to its consistent and effective application, including:
+(i)
+on the development and application of codes of conduct and codes of practice pursuant to this Regulation, as well as of the Commission’s guidelines;
+(ii)
+the evaluation and review of this Regulation pursuant to Article 112, including as regards the serious incident reports referred to in Article 73, and the functioning of the EU database referred to in Article 71, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex I;
+(iii)
+on technical specifications or existing standards regarding the requirements set out in Chapter III, Section 2;
+(iv)
+on the use of harmonised standards or common specifications referred to in Articles 40 and 41;
+(v)
+trends, such as European global competitiveness in AI, the uptake of AI in the Union, and the development of digital skills;
+(vi)
+trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability;
+(vii)
+on the potential need for amendment to Annex III in accordance with Article 7, and on the potential need for possible revision of Article 5 pursuant to Article 112, taking into account relevant available evidence and the latest developments in technology;
+(f)
+support the Commission in promoting AI literacy, public awareness and understanding of the benefits, risks, safeguards and rights and obligations in relation to the use of AI systems;
+(g)
+facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in this Regulation, including by contributing to the development of benchmarks;
+(h)
+cooperate, as appropriate, with other Union institutions, bodies, offices and agencies, as well as relevant Union expert groups and networks, in particular in the fields of product safety, cybersecurity, competition, digital and media services, financial services, consumer protection, data and fundamental rights protection;
+(i)
+contribute to effective cooperation with the competent authorities of third countries and with international organisations;
+(j)
+assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of this Regulation, including by contributing to the assessment of training needs for staff of Member States involved in implementing this Regulation;
+(k)
+assist the AI Office in supporting national competent authorities in the establishment and development of AI regulatory sandboxes, and facilitate cooperation and information-sharing among AI regulatory sandboxes;
+(l)
+contribute to, and provide relevant advice on, the development of guidance documents;
+(m)
+advise the Commission in relation to international matters on AI;
+(n)
+provide opinions to the Commission on the qualified alerts regarding general-purpose AI models;
+(o)
+receive opinions by the Member States on qualified alerts regarding general-purpose AI models, and on national experiences and practices on the monitoring and enforcement of AI systems, in particular systems integrating the general-purpose AI models.
+Article 67
+Advisory forum
+1.   An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under this Regulation.
+2.   The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia. The membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.
+3.   The Commission shall appoint the members of the advisory forum, in accordance with the criteria set out in paragraph 2, from amongst stakeholders with recognised expertise in the field of AI.
+4.   The term of office of the members of the advisory forum shall be two years, which may be extended by up to no more than four years.
+5.   The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI) shall be permanent members of the advisory forum.
+6.   The advisory forum shall draw up its rules of procedure. It shall elect two co-chairs from among its members, in accordance with criteria set out in paragraph 2. The term of office of the co-chairs shall be two years, renewable once.
+7.   The advisory forum shall hold meetings at least twice a year. The advisory forum may invite experts and other stakeholders to its meetings.
+8.   The advisory forum may prepare opinions, recommendations and written contributions at the request of the Board or the Commission.
+9.   The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.
+10.   The advisory forum shall prepare an annual report on its activities. That report shall be made publicly available.
+Article 68
+Scientific panel of independent experts
+1.   The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under this Regulation. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+2.   The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:
+(a)
+having particular expertise and competence and scientific or technical expertise in the field of AI;
+(b)
+independence from any provider of AI systems or general-purpose AI models;
+(c)
+an ability to carry out activities diligently, accurately and objectively.
+The Commission, in consultation with the Board, shall determine the number of experts on the panel in accordance with the required needs and shall ensure fair gender and geographical representation.
+3.   The scientific panel shall advise and support the AI Office, in particular with regard to the following tasks:
+(a)
+supporting the implementation and enforcement of this Regulation as regards general-purpose AI models and systems, in particular by:
+(i)
+alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article 90;
+(ii)
+contributing to the development of tools and methodologies for evaluating capabilities of general-purpose AI models and systems, including through benchmarks;
+(iii)
+providing advice on the classification of general-purpose AI models with systemic risk;
+(iv)
+providing advice on the classification of various general-purpose AI models and systems;
+(v)
+contributing to the development of tools and templates;
+(b)
+supporting the work of market surveillance authorities, at their request;
+(c)
+supporting cross-border market surveillance activities as referred to in Article 74(11), without prejudice to the powers of market surveillance authorities;
+(d)
+supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article 81.
+4.   The experts on the scientific panel shall perform their tasks with impartiality and objectivity, and shall ensure the confidentiality of information and data obtained in carrying out their tasks and activities. They shall neither seek nor take instructions from anyone when exercising their tasks under paragraph 3. Each expert shall draw up a declaration of interests, which shall be made publicly available. The AI Office shall establish systems and procedures to actively manage and prevent potential conflicts of interest.
+5.   The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of the tasks of the scientific panel.
+Article 69
+Access to the pool of experts by the Member States
+1.   Member States may call upon experts of the scientific panel to support their enforcement activities under this Regulation.
+2.   The Member States may be required to pay fees for the advice and support provided by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 68(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.
+3.   The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article 84 and experts pursuant to this Article is efficiently organised and provides the best possible added value.
+SECTION 2
+National competent authorities
+Article 70
+Designation of national competent authorities and single points of contact
+1.   Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of this Regulation. Those national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of this Regulation. The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.
+2.   Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto. Member States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025. Member States shall designate a market surveillance authority to act as the single point of contact for this Regulation, and shall notify the Commission of the identity of the single point of contact. The Commission shall make a list of the single points of contact publicly available.
+3.   Member States shall ensure that their national competent authorities are provided with adequate technical, financial and human resources, and with infrastructure to fulfil their tasks effectively under this Regulation. In particular, the national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of AI technologies, data and data computing, personal data protection, cybersecurity, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements. Member States shall assess and, if necessary, update competence and resource requirements referred to in this paragraph on an annual basis.
+4.   National competent authorities shall take appropriate measures to ensure an adequate level of cybersecurity.
+5.   When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article 78.
+6.   By 2 August 2025, and once every two years thereafter, Member States shall report to the Commission on the status of the financial and human resources of the national competent authorities, with an assessment of their adequacy. The Commission shall transmit that information to the Board for discussion and possible recommendations.
+7.   The Commission shall facilitate the exchange of experience between national competent authorities.
+8.   National competent authorities may provide guidance and advice on the implementation of this Regulation, in particular to SMEs including start-ups, taking into account the guidance and advice of the Board and the Commission, as appropriate. Whenever national competent authorities intend to provide guidance and advice with regard to an AI system in areas covered by other Union law, the national competent authorities under that Union law shall be consulted, as appropriate.
+9.   Where Union institutions, bodies, offices or agencies fall within the scope of this Regulation, the European Data Protection Supervisor shall act as the competent authority for their supervision.

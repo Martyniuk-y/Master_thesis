@@ -1,0 +1,65 @@
+SECTION 5
+Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models
+Article 88
+Enforcement of the obligations of providers of general-purpose AI models
+1.   The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
+2.   Without prejudice to Article 75(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation.
+Article 89
+Monitoring actions
+1.   For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models, including their adherence to approved codes of practice.
+2.   Downstream providers shall have the right to lodge a complaint alleging an infringement of this Regulation. A complaint shall be duly reasoned and indicate at least:
+(a)
+the point of contact of the provider of the general-purpose AI model concerned;
+(b)
+a description of the relevant facts, the provisions of this Regulation concerned, and the reason why the downstream provider considers that the provider of the general-purpose AI model concerned infringed this Regulation;
+(c)
+any other information that the downstream provider that sent the request considers relevant, including, where appropriate, information gathered on its own initiative.
+Article 90
+Alerts of systemic risks by the scientific panel
+1.   The scientific panel may provide a qualified alert to the AI Office where it has reason to suspect that:
+(a)
+a general-purpose AI model poses concrete identifiable risk at Union level; or
+(b)
+a general-purpose AI model meets the conditions referred to in Article 51.
+2.   Upon such qualified alert, the Commission, through the AI Office and after having informed the Board, may exercise the powers laid down in this Section for the purpose of assessing the matter. The AI Office shall inform the Board of any measure according to Articles 91 to 94.
+3.   A qualified alert shall be duly reasoned and indicate at least:
+(a)
+the point of contact of the provider of the general-purpose AI model with systemic risk concerned;
+(b)
+a description of the relevant facts and the reasons for the alert by the scientific panel;
+(c)
+any other information that the scientific panel considers to be relevant, including, where appropriate, information gathered on its own initiative.
+Article 91
+Power to request documentation and information
+1.   The Commission may request the provider of the general-purpose AI model concerned to provide the documentation drawn up by the provider in accordance with Articles 53 and 55, or any additional information that is necessary for the purpose of assessing compliance of the provider with this Regulation.
+2.   Before sending the request for information, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
+3.   Upon a duly substantiated request from the scientific panel, the Commission may issue a request for information to a provider of a general-purpose AI model, where the access to information is necessary and proportionate for the fulfilment of the tasks of the scientific panel under Article 68(2).
+4.   The request for information shall state the legal basis and the purpose of the request, specify what information is required, set a period within which the information is to be provided, and indicate the fines provided for in Article 101 for supplying incorrect, incomplete or misleading information.
+5.   The provider of the general-purpose AI model concerned, or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall supply the information requested on behalf of the provider of the general-purpose AI model concerned. Lawyers duly authorised to act may supply information on behalf of their clients. The clients shall nevertheless remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+Article 92
+Power to conduct evaluations
+1.   The AI Office, after consulting the Board, may conduct evaluations of the general-purpose AI model concerned:
+(a)
+to assess compliance of the provider with obligations under this Regulation, where the information gathered pursuant to Article 91 is insufficient; or
+(b)
+to investigate systemic risks at Union level of general-purpose AI models with systemic risk, in particular following a qualified alert from the scientific panel in accordance with Article 90(1), point (a).
+2.   The Commission may decide to appoint independent experts to carry out evaluations on its behalf, including from the scientific panel established pursuant to Article 68. Independent experts appointed for this task shall meet the criteria outlined in Article 68(2).
+3.   For the purposes of paragraph 1, the Commission may request access to the general-purpose AI model concerned through APIs or further appropriate technical means and tools, including source code.
+4.   The request for access shall state the legal basis, the purpose and reasons of the request and set the period within which the access is to be provided, and the fines provided for in Article 101 for failure to provide access.
+5.   The providers of the general-purpose AI model concerned or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall provide the access requested on behalf of the provider of the general-purpose AI model concerned.
+6.   The Commission shall adopt implementing acts setting out the detailed arrangements and the conditions for the evaluations, including the detailed arrangements for involving independent experts, and the procedure for the selection thereof. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+7.   Prior to requesting access to the general-purpose AI model concerned, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model to gather more information on the internal testing of the model, internal safeguards for preventing systemic risks, and other internal procedures and measures the provider has taken to mitigate such risks.
+Article 93
+Power to request measures
+1.   Where necessary and appropriate, the Commission may request providers to:
+(a)
+take appropriate measures to comply with the obligations set out in Articles 53 and 54;
+(b)
+implement mitigation measures, where the evaluation carried out in accordance with Article 92 has given rise to serious and substantiated concern of a systemic risk at Union level;
+(c)
+restrict the making available on the market, withdraw or recall the model.
+2.   Before a measure is requested, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
+3.   If, during the structured dialogue referred to in paragraph 2, the provider of the general-purpose AI model with systemic risk offers commitments to implement mitigation measures to address a systemic risk at Union level, the Commission may, by decision, make those commitments binding and declare that there are no further grounds for action.
+Article 94
+Procedural rights of economic operators of the general-purpose AI model
+Article 18 of Regulation (EU) 2019/1020 shall apply mutatis mutandis to the providers of the general-purpose AI model, without prejudice to more specific procedural rights provided for in this Regulation.
